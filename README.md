@@ -16,7 +16,7 @@ Video of device test
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-RvJ9BSbzys/0.jpg)](https://www.youtube.com/watch?v=-RvJ9BSbzys) 
 
 Making of  
-![image missing](./making of/before-mounting-motors.jpg)  
+![image missing](before-mounting-motors.jpg)  
 ![image missing](/making of/before-mounting-motors-debug.jpg)  
 ![image missing]("making of/testing.jpg")  
 ![image missing](making of/testing2.jpg)  
