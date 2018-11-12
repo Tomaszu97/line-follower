@@ -1,0 +1,19 @@
+PHOTOTRANSISTOR:
+1	-	PC5	(ADC5)
+2	-	PC4	(ADC4)
+3	-	PC3	(ADC3)
+4	-	PC2	(ADC2)
+5	-	PC1	(ADC1)
+6	-	PC0	(ADC0)
+
+MOTORS:
+input 1		-	PD7
+input 2		-	PB0
+input 3		-	PB1	
+input 4		-	PB2
+enable A	-	PD6
+enable B	-	PD5
+
+OTHER:
+LED				-	PD0	(TXD)
+BLACK BUTTON	-  	PD1	(RXD)
