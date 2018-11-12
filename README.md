@@ -18,7 +18,7 @@ Video of device test
 Making of  
 ![image missing](./making of/before-mounting-motors.jpg)  
 ![image missing](/making of/before-mounting-motors-debug.jpg)  
-![image missing](making of/testing.jpg)  
+![image missing]("making of/testing.jpg")  
 ![image missing](making of/testing2.jpg)  
 ![image missing](making of/spreadsheet2.jpg)  
 ![image missing](making of/spreadsheet.jpg)  
