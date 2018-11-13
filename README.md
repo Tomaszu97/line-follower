@@ -1,3 +1,4 @@
+![image missing](making%20of/clang.bmp)  
 A simple line follower project of mine.
 Consists of:
  * ATmega 328P  
