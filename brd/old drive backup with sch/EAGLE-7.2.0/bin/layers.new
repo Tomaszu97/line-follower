@@ -1,0 +1,26 @@
+;
+; Layer Re-Configuration for files created with EAGLE versions before 2.6:
+;
+; OldNr   NewNr   OldName    NewName
+;
+    1      16   ; Solder     Bottom
+    2       1   ; Component  Top
+    3      17   ; Pads       Pads
+    4      18   ; Vias       Vias
+    5      19   ; Unrouted   Unrouted
+    6      21   ; Placeplan  tPlace
+    7      20   ; Dimension  Dimension
+    8      42   ; RestrictS  bRestrict
+    9      41   ; RestrictC  tRestrict
+   10      43   ; RestrictV  vRestrict
+   11      23   ; Origins    tOrigins
+   12      22   ; BackPlace  bPlace
+
+   41      91   ; Nets       Nets
+   42      92   ; Busses     Busses
+   43      93   ; Pins       Pins
+   44      94   ; Symbols    Symbols
+   45      95   ; Names      Names
+;
+; Add user-defined layers here:
+;
